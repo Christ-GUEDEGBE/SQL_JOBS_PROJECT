@@ -28,6 +28,7 @@ Le lien de la vidéo juste ici : [Learn SQL in 4 Hours_Luke Barousse](https://yo
 **Quelles sont les compétences les plus demandées pour mon rôle ?**
 **Quelles sont les compétences les mieux rémunérées pour mon rôle ?**
 **Quelles sont les compétences les plus optimales à apprendre ?**
-WHAT I LEARNED
-CONCLUSION
+
+
+
 

@@ -17,9 +17,9 @@ WITH PREM AS
         jpc.job_work_from_home=TRUE
         
     GROUP BY skills_dim.skill_id, skills_dim.skills
-    --J'ai groupé par les id pcq c'est la bonne pratique, j'aurais pu le faire par les skills
-    --Jajoute les skills pour qu'il soit une colonne de prems
-    --je peux le faire pcq à chaque id correspond un ici donc ca change rien.
+    --I grouped by the ids because this is good practice, I could have done it by the skills.
+    --I add the skills so that it is a column of prems.
+    --I can do it because each id corresponds to one here so it doesn't change anything.
 ),
 DEUS AS
 (   

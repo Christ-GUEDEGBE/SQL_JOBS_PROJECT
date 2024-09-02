@@ -3,9 +3,10 @@ Why It reveals how different skills salary impact levels for data analyst and
 helps identify the most financially rewarding skills to acquire or improve
 */
 
-SELECT AVG (jpc.salary_year_avg) AS MOY, skills -- je peux me permettre de mettre skills ici
---pcq apres une jointure a été faite
---Je n'ai pas besoin d'inclure dans le select les colonnes de la condition where 
+SELECT AVG (jpc.salary_year_avg) AS MOY,
+skills -- I can afford to put skills here
+--because a join has been made after 
+--I don't need to include in the SELECT the columns of the WHERE condition
 FROM job_postings_fact AS jpc
 INNER JOIN skills_job_dim ON jpc.job_id = skills_job_dim.job_id
 INNER JOIN skills_dim ON skills_job_dim.skill_id=skills_dim.skill_id

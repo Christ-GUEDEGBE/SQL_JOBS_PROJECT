@@ -1,6 +1,4 @@
 /*2-What are the skills required for these top paying-roles?
--Use the top 10 highest paying Data-Analyst jobs* from first query
--Add the specific skills requiered for theses roles 
 -Why? It provides a detailled look at which high paying job demand certains skills, 
 helping job seekers a detailed look understand Which skills to develop that align top salaries
 */ 
@@ -20,8 +18,7 @@ etc.salary_year_avg,
 etc.skills
 --,name AS comp_name
 FROM etc 
---LEFT JOIN company_dim ON etc.company_id=company_dim.company_id ************** (si je veux decommenter ca,
---je dois le faire avec la ligne name aussi...)
+--LEFT JOIN company_dim ON etc.company_id=company_dim.company_id   ******* (completely optional...)
 WHERE
     etc.job_title_short LIKE '%Data Analyst%' AND
     etc.salary_year_avg IS NOT NULL AND
