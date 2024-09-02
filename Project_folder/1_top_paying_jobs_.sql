@@ -6,6 +6,7 @@
 SELECT 
 salary_year_avg,
 job_title_short,
+job_title,
 job_work_from_home
 FROM job_postings_fact AS job_postings_fact
 
