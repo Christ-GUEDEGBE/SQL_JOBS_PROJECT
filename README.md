@@ -1,4 +1,3 @@
-# INTRODUCTION
 Ce projet est une analyse des compétences les plus payantes pour les postes de Data Analyst, inspirée par une vidéo de Luke Barousse sur la programmation SQL. En tant que débutant passionné par la data science, ce tout premier projet m'a permis de me plonger dans le monde de l'analyse de données en utilisant SQL et PostgreSQL.
 
 Le dossier contenant les différentes requetes:
@@ -22,12 +21,36 @@ Le lien de la vidéo juste ici : [Learn SQL in 4 Hours_Luke Barousse](https://yo
 * **Visual Studio Code** : Environnement de développement pour écrire et exécuter les scripts SQL.
 * **PG ADMIN 4** : Logiciel spécialisé dans la gestion des bases de données postgreSQL.
 
-# THE ANALYSIS
+# L'ANALYSE
 **Quels sont les emplois les mieux rémunérés pour mon rôle ?**
+-Les postes de direction sont les mieux rémunérés :
+Les postes avec des titres de directeur, comme "Director of Analytics" ou "Associate Director - Data Insights", ont tendance à offrir des salaires annuels moyens significativement plus élevés, par exemple, autour de 336 500 € et 255 829,5 € respectivement.
+
+-Le travail à distance est courant :
+Une grande partie des postes bien rémunérés offrent la possibilité de travailler à distance, ce qui montre que la flexibilité du lieu de travail est un facteur important dans ces emplois.
+
 **Quelles sont les compétences requises pour ces postes bien rémunérés ?**
+
+Les compétences requises pour ces postes de Data Analyst bien rémunérés sont principalement axées sur :
+
+-Maîtrise des langages de programmation pour l'analyse de données : Python et R.
+
+-Compétences en manipulation de données et en utilisation d'outils spécifiques : SQL, Pandas, PySpark, Jupyter, et Excel.
+
+-Familiarité avec les plateformes de cloud computing : Azure, Databricks, et AWS.
+
 **Quelles sont les compétences les plus demandées pour mon rôle ?**
+
+Les compétences les plus demandées pour le métier de Data Analyst sont SQL, Tableau, Python, Excel et R, avec SQL étant la plus sollicitée, suivie de près par Tableau et Python.
+
 **Quelles sont les compétences les mieux rémunérées pour mon rôle ?**
+
+Les compétences les mieux rémunérées pour votre rôle de Data Analyst sont Bitbucket, Angular, FastAPI, Keras, et PySpark, avec les salaires annuels moyens les plus élevés associés à ces compétences.
+
 **Quelles sont les compétences les plus optimales à apprendre ?**
+
+Les trois compétences les plus optimales sont donc le SQL, Python, le NO SQL, lorsqu'on se base sur les deux critères que sont les salaires, et les compétences les plus demandées.
+
 
 
 
