@@ -1,7 +1,7 @@
 Ce projet est une analyse des compétences les plus optimales pour les postes de Data Analyst, inspirée par une vidéo de Luke Barousse sur la programmation SQL. En tant que débutant passionné par la data science, ce tout premier projet m'a permis de me plonger dans le monde de l'analyse de données en utilisant SQL et PostgreSQL.
 
 Le dossier contenant les différentes requetes:
-[Dossier_requetes](/SQL_Course_for_Data_Analytics/)
+[Dossier_requetes](/Dossier_requetes/)
 
 
 # LES QUESTIONS QUI ONT REGI MON ANALYSE
