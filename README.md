@@ -45,7 +45,7 @@ Les compétences les plus demandées pour le métier de Data Analyst sont SQL, T
 
 **Quelles sont les compétences les mieux rémunérées pour mon rôle ?**
 
-Les compétences les mieux rémunérées pour votre rôle de Data Analyst sont Bitbucket, Angular, FastAPI, Keras, et PySpark, avec les salaires annuels moyens les plus élevés associés à ces compétences.
+Les compétences les mieux rémunérées pour le rôle de Data Analyst sont Bitbucket, Angular, FastAPI, Keras, et PySpark, avec les salaires annuels moyens les plus élevés associés à ces compétences.
 
 **Quelles sont les compétences les plus optimales à apprendre ?**
 
