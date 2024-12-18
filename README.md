@@ -1,55 +1,55 @@
-Ce projet est une analyse des compétences les plus optimales pour les postes de Data Analyst, inspirée par une vidéo de Luke Barousse sur la programmation SQL. En tant que débutant passionné par la data science, ce tout premier projet m'a permis de me plonger dans le monde de l'analyse de données en utilisant SQL et PostgreSQL.
+This project is an analysis of the most optimal skills for Data Analyst positions, inspired by a video by Luke Barousse on SQL programming. As a beginner passionate about data science, this very first project allowed me to dive into the world of data analysis using SQL and PostgreSQL.
 
-Le dossier contenant les différentes requetes:
-[Dossier_requetes](/Project_folder/)
+The folder containing the different queries:
+[Poject folder](/Project_folder/)
 
 
-# LES QUESTIONS QUI ONT REGI MON ANALYSE
-En tant qu'autodidacte en data science, je cherchais à comprendre quelles compétences sont les plus précieuses pour un Data Analyst. Pour cela, j'ai suivi le projet de Luke Barousse, où il explore les compétences les plus demandées et les mieux rémunérées pour ce rôle. Les questions principales qui ont guidé mon analyse sont :
+# QUESTIONS THAT GOVERNED MY ANALYSIS
+As a self-taught data scientist, I was looking to understand which skills are most valuable for a Data Analyst. To do this, I followed Luke Barousse's project, where he explores the most in-demand and best-paid skills for this role. The main questions that guided my analysis are:
 
-* Quels sont les emplois les mieux rémunérés pour mon rôle ?
-* Quelles sont les compétences requises pour ces postes bien rémunérés ?
-* Quelles sont les compétences les plus demandées pour mon rôle ?
-* Quelles sont les compétences les mieux rémunérées pour mon rôle ?
-* Quelles sont les compétences les plus optimales à apprendre ?
+* What are the highest paying jobs for my role?
+* What skills are required for these high paying positions?
+* What skills are in high demand for my role?
+* What skills pay the highest for my role?
+* What skills are most optimal to learn?
 
-Le lien de la vidéo juste ici : [Learn SQL in 4 Hours_Luke Barousse](https://youtu.be/7mz73uXD9DA?si=H0q6x9tu6w5nA3jO)
+The video link right here: [Learn SQL in 4 Hours_Luke Barousse](https://youtu.be/7mz73uXD9DA?si=H0q6x9tu6w5nA3jO)
 
-# LES OUTILS QUE J'AI UTILISE
-* **SQL** : Utilisé pour interroger et manipuler les données.
-* **PostgreSQL** : La base de données utilisée pour stocker et gérer les données.
-* **Visual Studio Code** : Environnement de développement pour écrire et exécuter les scripts SQL.
-* **PG ADMIN 4** : Logiciel spécialisé dans la gestion des bases de données postgreSQL.
+# TOOLS I USED
+* **SQL** : Used to query and manipulate data.
+* **PostgreSQL** : The database used to store and manage data.
+* **Visual Studio Code** : Development environment to write and execute SQL scripts.
+* **PG ADMIN 4** : Software specialized in managing postgreSQL databases.
 
-# L'ANALYSE
-**Quels sont les emplois les mieux rémunérés pour mon rôle ?**
--Les postes de direction sont les mieux rémunérés :
-Les postes avec des titres de directeur, comme "Director of Analytics" ou "Associate Director - Data Insights", ont tendance à offrir des salaires annuels moyens significativement plus élevés, par exemple, autour de 336 500 € et 255 829,5 € respectivement.
+# ANALYSIS
+**What are the highest paying jobs for my role?**
+-Management positions pay the highest:
+Jobs with director titles, such as "Director of Analytics" or "Associate Director - Data Insights", tend to offer significantly higher average annual salaries, for example, around €336,500 and €255,829.5 respectively.
 
--Le travail à distance est courant :
-Une grande partie des postes bien rémunérés offrent la possibilité de travailler à distance, ce qui montre que la flexibilité du lieu de travail est un facteur important dans ces emplois.
+-Remote work is common:
+A large portion of high-paying positions offer the option to work remotely, which shows that workplace flexibility is an important factor in these jobs.
 
-**Quelles sont les compétences requises pour ces postes bien rémunérés ?**
+**What are the skills required for these high-paying positions?**
 
-Les compétences requises pour ces postes de Data Analyst bien rémunérés sont principalement axées sur :
+The skills required for these high-paying Data Analyst jobs are mainly focused on:
 
--Maîtrise des langages de programmation pour l'analyse de données : Python et R.
+-Proficiency in programming languages ​​for data analysis: Python and R.
 
--Compétences en manipulation de données et en utilisation d'outils spécifiques : SQL, Pandas, PySpark, Jupyter, et Excel.
+-Data manipulation and specific tool skills: SQL, Pandas, PySpark, Jupyter, and Excel.
 
--Familiarité avec les plateformes de cloud computing : Azure, Databricks, et AWS.
+-Familiarity with cloud computing platforms: Azure, Databricks, and AWS.
 
-**Quelles sont les compétences les plus demandées pour mon rôle ?**
+**What are the most in-demand skills for my role?**
 
-Les compétences les plus demandées pour le métier de Data Analyst sont SQL, Tableau, Python, Excel et R, avec SQL étant la plus sollicitée, suivie de près par Tableau et Python.
+The most in-demand skills for the Data Analyst job are SQL, Tableau, Python, Excel, and R, with SQL being the most in-demand, followed closely by Tableau and Python.
 
-**Quelles sont les compétences les mieux rémunérées pour mon rôle ?**
+**What are the highest paying skills for my role?**
 
-Les compétences les mieux rémunérées pour le rôle de Data Analyst sont Bitbucket, Angular, FastAPI, Keras, et PySpark, avec les salaires annuels moyens les plus élevés associés à ces compétences.
+The highest paying skills for the Data Analyst role are Bitbucket, Angular, FastAPI, Keras, and PySpark, with the highest average annual salaries associated with these skills.
 
-**Quelles sont les compétences les plus optimales à apprendre ?**
+**What are the most optimal skills to learn?**
 
-Les trois compétences les plus optimales sont donc le SQL, Python, le NO SQL, lorsqu'on se base sur les deux critères que sont les salaires, et les compétences les plus demandées.
+So the three most optimal skills are SQL, Python, NO SQL, when based on the two criteria of salaries, and the most in-demand skills.
 
 
 
